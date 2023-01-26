@@ -1,0 +1,9 @@
+code: bundle-nested-pages-headless
+description: bundle-nested-pages-headless
+bundle-type: system-level-bundle
+components:
+  fragments: []
+  pages:
+    - pages/page11_p-descriptor.yaml
+    - pages/page111_p-descriptor.yaml
+    - pages/page12_p-descriptor.yaml
